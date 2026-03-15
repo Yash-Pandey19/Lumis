@@ -15,7 +15,7 @@ import java.util.concurrent.Future;
 class constValues
 {
     //static final String API_KEY = "";      //First Account
-    static final String API_KEY = "";        //Second Account
+    static final String API_KEY = "AIzaSyDdcj4svUJPmEK69sECXA58eb4mktA5rRc";        //Second Account
 }
 
 /**
