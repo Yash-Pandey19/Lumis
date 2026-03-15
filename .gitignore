@@ -36,3 +36,15 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/
+
+# Generated JavaDoc
+javadoc/
+
+# Personal research files
+ExcelFiles/
+
+# Run logs
+run_output.txt
+ApiReferenceLinks.txt
